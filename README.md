@@ -5,3 +5,4 @@
  Basic Operations: Implement functionality for basic arithmetic operations.
  - User Input: Allow user input via the console or GUI.-
  -  Clear and Backspace: Implement functionality to clear the current input or delete the last digit entered.
+# Output ![project2](https://github.com/user-attachments/assets/8317ff9f-23fe-4cfe-a800-5c138c112c17)
